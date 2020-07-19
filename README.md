@@ -1,4 +1,4 @@
-# SlowInternet
+# iPrimus Possible Congestion
 
 Provider: iPrimus
 Plan: Speed Boost 50Mbps
