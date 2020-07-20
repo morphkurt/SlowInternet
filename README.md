@@ -1,20 +1,22 @@
 # iPrimus Possible Congestion
 
-Provider: iPrimus
+## Issue: Slow Internet during peak hours.
 
-Plan: Speed Boost 50Mbps
 
-Location: Meridian Estate Dandenong
+**Provider**: iPrimus
 
-Supplier: Redtrain
+**Plan**: Speed Boost 50Mbps
 
-Case Number: 01485430
+**Location**: Meridian Estate Dandenong
 
-Issue: Slow Internet during peak hours.
+**Supplier**: Redtrain
 
-Case Raised: 17/07/2020
+**Case Number**: 01485430
 
-Reference: PFM-173331
+
+**Case Raised** : 17/07/2020
+
+**Reference** : PFM-173331
 
 Speedtest Spreadsheet: https://docs.google.com/spreadsheets/d/1Ly8GHCvTwdOfJDvR0hiGI9atmcBLFf2bmTRFX3W3HAk/edit?usp=sharing
 
