@@ -1,6 +1,6 @@
 # iPrimus Possible Congestion
 
->> Issue: Slow Internet during peak hours.
+**Issue: Slow Internet during peak hours.**
 
 
 **Provider**: iPrimus
