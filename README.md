@@ -17,7 +17,7 @@ Update:
 ## 18/07/2020 
 * Provided screenshots of speedtest.
 * They required link of the speedtest.
-* To be callbakc 19/07/2020
+* To be callback 19/07/2020
 
 ## 20/07/2020
 * Escalated to faults management team. 
