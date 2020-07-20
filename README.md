@@ -29,5 +29,5 @@ Update:
 
 ## 20/07/2020
 * Escalated to faults management team. 
-* Text from iPrimus
+* Text from iPrimus (Escalation [https://www.iprimus.com.au/new-escalation-sms-faqs/](FAQ))
 * Tech visit charge acknowledged if the fault is not within the customer boundry.
