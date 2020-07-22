@@ -31,3 +31,9 @@ Update:
 * Escalated to faults management team. 
 * Text from iPrimus (Escalation [FAQ](https://www.iprimus.com.au/new-escalation-sms-faqs/))
 * Tech visit charge acknowledged if the fault is not within the customer boundry.
+
+## 22/07/2020
+* Tech visit from Redtrain
+* Issue is with Redtrain and iPrimus
+* No ETA of a fix, offered a onetime credit 50% months charge.
+* If there is no resolution offer to waive of cancellation fees.
