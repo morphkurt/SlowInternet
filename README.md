@@ -37,3 +37,7 @@ Update:
 * Issue is with Redtrain and iPrimus
 * No ETA of a fix, offered a onetime credit 50% months charge.
 * If there is no resolution offer to waive of cancellation fees.
+
+## 24/07/2020
+* TIO Complain 2020/07/12119
+* To call TIO if there is not solution  by 17/08/2020
