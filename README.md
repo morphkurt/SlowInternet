@@ -19,6 +19,7 @@
 **Reference** : PFM-173331
 
 Speedtest Spreadsheet: https://docs.google.com/spreadsheets/d/1Ly8GHCvTwdOfJDvR0hiGI9atmcBLFf2bmTRFX3W3HAk/edit?usp=sharing
+Speedtest Chart: https://speed.damitha.xyz/
 
 Update:
 
